@@ -1,4 +1,5 @@
-# LLM Trial
+# LLM with Google Bert
+## For question answering
 
 From: https://colab.research.google.com/drive/156gcOZbUQwXfiINzlzD_AIkt1Llfa-O1?usp=sharing#scrollTo=FdXnEZghUlZo
 
